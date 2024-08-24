@@ -37,3 +37,29 @@ body{
     margin-left: 500px;
 } 
 
+/* main section */
+
+#person{
+    background-color: peachpuff;
+    border-radius: 500px;
+} 
+
+.resolution-list{
+    list-style: none;
+}
+
+.tick-img{
+    padding-right: 15px;
+} 
+
+.failures-of-previous-years-section{
+    display: flex; 
+    justify-content: center;
+    margin-top: 50px ;
+    margin-bottom: 50px ;
+} 
+
+.column-of-failures-of-previous-years-section{
+    margin-top: 200px;
+    margin-left: 100px;
+}
