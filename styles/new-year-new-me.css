@@ -1,0 +1,39 @@
+/* shared/body related styles */
+body{
+    font-family: "Work Sans", sans-serif;
+}
+.btn-primary{
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 200px;
+    background-color: rgb(241, 91, 34);
+    color: white;
+    border: 0;
+    border-radius: 5px;
+}
+/* banner styles */
+.banner{
+    display: flex;
+    justify-content: center;
+}
+
+.banner-title{
+    position: absolute;
+    font-size: 65px;
+    margin-left: 500px;
+    margin-top: 250px;
+}
+
+.banner-description{
+    position: absolute;
+    font-size: 16px;
+    margin-top: 500px;
+    margin-left: 500px;
+} 
+
